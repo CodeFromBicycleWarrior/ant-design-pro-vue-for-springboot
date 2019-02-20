@@ -1,3 +1,6 @@
+import '@babel/polyfill'
+// import '@babel/plugin-transform-runtime'
+
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
