@@ -13,15 +13,15 @@
 - server 后端项目（Spring Boot实现）
 
 ## 编译与运行
-### 前端
+#### 前端
 - 参考原项目，使用`yarn run build`进行编译
 - build完成后前端项目路径下`dist`目录中的内容copy到后端资源目录static下覆盖
   说明: 后端已存在的项目为2019.02.19拉取的master版本（您可以替换成稳定的release版本）
 
-### 后端
+#### 后端
 - 导入maven项目到IDEA中，等待自动导入、编译完成，运行`AntdVueApplication`即可
 
-### 预览
+#### 预览
 - Spring Boot启动后，访问 http://localhost:8080
 
 ### TODO LIST

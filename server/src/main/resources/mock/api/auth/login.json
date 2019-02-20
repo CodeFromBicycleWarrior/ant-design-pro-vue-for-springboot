@@ -1,0 +1,25 @@
+{
+  "message": "",
+  "status": 200,
+  "_res": {
+    "status": 200
+  },
+  "body": "function({ _req }) { return _req.body }",
+  "result": {
+    "id": "4291d7da9005377ec9aec4a71ea837f",
+    "name": "admin",
+    "username": "admin",
+    "password": "",
+    "avatar": "https://gw.alipayobjects.com/zos/rmsportal/jZUIxmJycoymBprLOUbT.png",
+    "status": 1,
+    "telephone": "",
+    "lastLoginIp": "27.154.74.117",
+    "lastLoginTime": 1534837621348,
+    "creatorId": "admin",
+    "createTime": 1497160610259,
+    "deleted": 0,
+    "roleId": "admin",
+    "token": "4291d7da9005377ec9aec4a71ea837f"
+  },
+  "timestamp": 1534844188679
+}
